@@ -58,14 +58,6 @@ Push your changes to your forked repository:
 
 Create a pull request to the main repository, explaining your changes and their significance.
 
-### Contact
-For any questions, suggestions, or concerns, please feel free to contact the project maintainer at pawar.prath@northeastern.edu and sharan.a@northeastern.edu
-
-We appreciate your interest and contributions to Summarization! Thank you for your support.
-
-
-### Links to models and datasets
-
 ## Models
 
 1. Pegasus 
