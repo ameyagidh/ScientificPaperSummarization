@@ -6,7 +6,8 @@ This project showcases an attempt to summarize and simplify scientific documents
 
 #### Clone the repository: 
 
-`git clone https://github.com/Prathamesh-Pawar/Summarization.git`
+`git clone https://github.com/ameyagidh/ScientificPaperSummarization
+.git`
 
 #### Change to the project directory: 
 
@@ -29,16 +30,6 @@ This will generate a JSON with 'topic', 'summary' and 4 preprocessed contents
 #### To use Summarization, follow these steps:
 
 `python test.py -t "This is the input text for summarization." -m "Choose from list of models"`
-
-list of models:
-1. PrathameshPawar/pegasus_raw
-2. PrathameshPawar/pegasus_traditional
-3. PrathameshPawar/pegasus_custom
-4. PrathameshPawar/pegasus_combined
-5. PrathameshPawar/bart_raw
-6. PrathameshPawar/bart_traditional
-7. PrathameshPawar/bart_custom
-8. PrathameshPawar/bart_combined
 
 #### To train Summarization, follow these steps:
 
@@ -77,24 +68,8 @@ We appreciate your interest and contributions to Summarization! Thank you for yo
 
 ## Models
 
-### Pegasus 
+1. Pegasus 
 
-1. pegasus_raw :        https://huggingface.co/PrathameshPawar/pegasus_raw/tree/main
-2. pegasus_traditional: https://huggingface.co/PrathameshPawar/pegaus_traditional/tree/main
-3. pegasus_custom:      https://huggingface.co/PrathameshPawar/pegasus_custom/tree/main
-4. pegasus_combined:    https://huggingface.co/PrathameshPawar/pegasus_combined/tree/main
-
-### Bart
-
-1. bart_raw :        https://huggingface.co/PrathameshPawar/bart_raw/tree/main
-2. bart_traditional: https://huggingface.co/PrathameshPawar/bart_traditional/tree/main
-3. bart_custom:      https://huggingface.co/PrathameshPawar/bart_custom/tree/main
-4. bart_combined:    https://huggingface.co/PrathameshPawar/bart_combined/tree/main
-
-
-## Datasets
-
-1. Train: https://huggingface.co/datasets/PrathameshPawar/10ktesttrain/tree/main
-2. Test:  https://huggingface.co/datasets/PrathameshPawar/summary_2k/tree/main
+2. Bartn
 
 
